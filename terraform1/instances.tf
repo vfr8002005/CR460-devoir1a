@@ -22,7 +22,7 @@ resource "google_compute_instance" "chien" {
       }
     }
 
-  metadata_startup_script = "apt-get -y update && apt-get -y upgrade && apt-get -y install apache2 && systemctl start apache2"
+  metadata_startup_script = "apt-get -y update && apt-get -y upgrade && apt-get -y install apache2 && systemctl start apache2"  
 }
 
 resource "google_compute_instance" "chat" {
