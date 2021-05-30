@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "first-parser-314619",
+  "private_key_id": "36c66865fd2915c32748070b9dc4de2dffeb4693",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDwK9ftLME9ACqX\nnhXPPcKfB5x84gIMOSJB5z3OlHUNuUBjEs1ne4+zSN/abcXtB29HDUyGP8D20MEs\nOjeoKwLaFAs2Ako6a4sfZKvtpW/pCUMIDz54gsLQjMdUKVv/oHrM9eOrBTIi8kjp\nNSyBFTjk+pYnyBklBioFocP5Lze8nGRxnz2WQFrhUmr668PAFki5+NSc7on6yJJr\nOKikaXQNir0UK8VpNuC/10emvSAT06baf3oUDvZzaG+ZkUoPgA3eCD8fFWbv2HKp\nn2GppiT0PiTTKFPTIh82WyuNN2PjKhEUXrHQ3RfY8hGv4+Y/8vvBvz5OxsflUdWq\nfG5G9FOLAgMBAAECggEAeASQ3NbWohMpNacsIuosDaiSDN4sQ8txURmri0Yo0HjY\nsim9N49JmkA6jT75/58NfqYorZXCahSb0+wrz//eZvhJOe4fBd6kIUX/nLxllkCo\nnKhxgWtmyyzulyIr9SxO8YmXAemQymHlCZUm7kKaseJ/ktWtqxDPgwz5j9aGtdtB\nfne1Lyab8sW4Y5HbMqPY9vXR3NsS/iZV6ZEpUwdXFu+xzpAw0fqoACQEyM9Is6Ad\nRxtPCDwTKJ4rT4/Zhc2xDagHibRjZqAXFpuYlEqDeStuPE5BYld6C5Uykb2ZK09r\n0BpPBLZUIaXzrv/qnlOcSq6ktzGJ47v+ryYt6SVH0QKBgQD9Fq8rHSPTSH3rtjd/\n/w2OL6CcnUyocoLuI8E24o3j6DmX/ubDUNACobqUnABdqX9oc7YWNzT6J+sZG+oT\n9E9FxGDZUKZAp2wedIssNFw/nww4erSGw9idnzg+qCTgMh/jubcuWwHIkNGr+ewQ\niURivDfA2HJjK2fqfHe1Xt69lQKBgQDy7x6BswkWqi+Zwdlfb+87vuYKS9q51D2r\nCJx1LfVvjC4KqQnLAFCHBEUG3N4sF17yGZ1dZNrlour6DTETUv4zRgd47aewBcP5\nGt8nn5Gn5TBdUN3AlFZ+pJpVYeO7SwqnLLzQNpu4pv2SJlBu774p+VPnaY4WrGQ/\ni5gnhP1EnwKBgQCgASxjbHvOwuDhGYVDBaOzRccb3JKvWB4QokgwA9FCyflHb97C\nkp+/WjIUbAALNvKWvbjbmLGEiaIncK9vSCCp8fpsyYEiFPbU1kd6fevoSQw31NO2\n87BKDnRHoJQXrXjdxvbZdq3M+EmmmU22MqIqbeYtpGnE6pc69s/TuZPGdQKBgQDw\nTGsGrEvfKXRwSPl1l8kydgAiSyoOCsz9M0Vf+5f9QNICJXbUYHlHNIf649q4Dl4S\naBfq2+pSn7aCpS3YCY38tdaKXbozOWDCNTxre0Geq+wNQgI3jgOIvdUThAK5rt7Y\nwj36Tyn1mujT+iYxtd+KsV+3VggAkYGQAcr9vGSxzQKBgEJyubO5ZOt0tmv8zoly\nBPyEJu5ViuyRso1myJ5hrO+cxzA/9rSYS0WlUpH+5idKzuE0UE6mEWqijC3txrjr\nS5bZBhXuk3vzONvK1R7jT6+8Pb04x1v1xoiw1jqVtknyMboAlVULUtZcnG6CDkWy\nkgCL7cFQZ0xS550o9Azh7aWB\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-maison@first-parser-314619.iam.gserviceaccount.com",
+  "client_id": "114107851258925433345",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-maison%40first-parser-314619.iam.gserviceaccount.com"
+}
